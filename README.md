@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @golglom
+- 👋 Hi, I’m Georges Dumoga
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning frontend with React
 - 💞️ I’m looking to collaborate on Responsive apps
 - 📫 How to reach me zicombusiness74@gmail.com
 
